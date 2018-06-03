@@ -1,0 +1,2 @@
+# studyRubyOnRails
+https://railstutorial.jp/
